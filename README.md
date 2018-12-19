@@ -1,3 +1,4 @@
-# Sevrerless application using AWS and ReactJS
-# my-serverless-project
-This is my serverless project
+# Sererless application using AWS and ReactJS
+## Technologies user
+Git and Github
+SSH
